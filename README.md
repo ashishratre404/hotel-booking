@@ -2,6 +2,8 @@
 
 ## Website where hotel owners can list their hotels in website and user can book hotel to stay.
 
+![hotels](https://user-images.githubusercontent.com/78258094/199511452-76b298db-b54d-48d6-bf01-be266f3b2ea8.jpeg)
+
 This project has these features - 
 * CRUD operation 
 * searching
